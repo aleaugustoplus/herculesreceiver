@@ -1,5 +1,4 @@
-# herculesreceiver
-# Hercules remote control
+# Hercules Receiver
 
 This is firmware used in the robot so called "Hercules" in order to allow remote controlling available at: [seeed studio](https://www.seeedstudio.com/Skeleton-Bot-4WD-Hercules-Mobile-Robotic-Platform-p-1504.html)
 Used along with [remote_lvc](https://github.com/aleaugustoplus/remote_lvc) sofware that is used in the remote controlling interface
